@@ -46,6 +46,6 @@ goto loop
 
 # Disclaimer
 
-This Is A Virus, Not A Toy. So Dont Mess With It. Do Not Try On Any Responsible Hardware. Try In Your Own Respoc I Am Not Responsible Of Any Misuse Of It.
+This Is A Virus, Not A Toy. So Dont Mess With It. Do Not Try On Any Responsible Hardware. Try In Your Own Responsibility I Am Not Responsible Of Any Misuse Of It.
 
 
